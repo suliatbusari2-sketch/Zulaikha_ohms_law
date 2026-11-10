@@ -1,0 +1,27 @@
+===== OHM'S LAW AND POWER CALCULATOR =====
+1. Calculate Voltage (V = I x R)
+2. Calculate Current (I = V / R)
+3. Calculate Resistance (R = V / I)
+4. Calculate Power (P = V x I)
+5. View Calculation History
+6. Exit
+Choose an option (1-6): 1
+Enter current in amperes (A): 2
+Enter resistance in ohms: 5
+
+Voltage = 10.00 V
+
+Choose an option (1-6): 4
+Enter voltage in volts (V): 12
+Enter current in amperes (A): 3
+
+Power = 36.00 W
+
+Choose an option (1-6): 5
+
+===== CALCULATION HISTORY =====
+1. Voltage = 10.00 V
+2. Power = 36.00 W
+
+Choose an option (1-6): 6
+Thank you for using the calculator. Goodbye!
