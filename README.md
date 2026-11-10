@@ -54,5 +54,5 @@ I added a **Calculation History** feature. It stores every successful calculatio
 I practised creating Python functions, using a `while` loop, making decisions with `if/elif/else`, converting user input with `float()`, handling invalid input with `try/except`, and storing results in a list. I also applied the formulas of Ohm's Law and electrical power.
 
 ## Author
-**Oladimeji Ismail olamilekan**  
+**Busari Suliat Adeola**  
 ND1 Mechatronics Engineering, YabaTech
